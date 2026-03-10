@@ -3,7 +3,7 @@
 
 # Welcome!
 
-We are Korean researchers in the field of nuclear science and engineering based in New England.
+Welcome to the Korean Nuclear Researchers in New England! Our group connects Korean professionals and researchers in the nuclear field across the region. We aim to foster collaboration, share knowledge, and build a supportive community where ideas, mentorship, and networking thrive. Whether you’re a student, researcher, or industry professional, we’re glad you’re here.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ We are Korean researchers in the field of nuclear science and engineering based 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Discover our events, collaborations, and initiatives advancing nuclear research and community connections.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="activities"
+  text="See our activities"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,31 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="activities"
+  title="Our Activities"
   flip=true
   style="bare"
   text=text
@@ -59,12 +36,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our members shaping the Korean nuclear research community in New England.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="people"
+  text="Meet our people"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="people"
+  title="Our People"
   text=text
 %}
