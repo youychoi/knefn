@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Activities
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our network organizes a variety of activities to connect Korean nuclear researchers in New England. These include seminars, journal clubs, networking events, and collaborative projects. Through these activities, we aim to share knowledge, foster professional growth, and strengthen our community.
 
 {% include section.html %}
 
