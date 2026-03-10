@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Korean Nuclear Researchers in New England
 subtitle: 
-description: Welcome! We are a group of Korean researches in the field of nuclear science and engineering based in New England.
+description: website for Korean Nuclear Researchers in New England
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: youyeon.choi@gmail.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: youychoi
-  twitter: youychoi
-  youtube: youychoi
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
+  # github: youychoi
+  # twitter: youychoi
+  # youtube: youychoi
 
 ### jekyll settings
 
