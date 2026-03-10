@@ -1,9 +1,9 @@
 ---
 ---
 
-# youychoi's Website
+# Welcome!
 
-An engaging 1-3 sentence description of your lab.
+We are Korean researchers in the field of nuclear science and engineering based in New England.
 
 {% include section.html %}
 
