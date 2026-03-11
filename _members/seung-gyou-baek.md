@@ -1,6 +1,6 @@
 ---
 name: Seung Gyou Baek
-image: images/photo.jpg
+image: images/Seung-Gyou-Baek-profile.jpg
 role: President
 affiliation: MIT PSFC
 aliases:
