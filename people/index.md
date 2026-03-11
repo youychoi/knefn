@@ -1,8 +1,7 @@
 ---
 title: People
 nav:
-  order: 4
-  tooltip: About our team
+  order: 1
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}People
