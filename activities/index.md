@@ -1,8 +1,7 @@
 ---
 title: Activities
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 2
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Activities
