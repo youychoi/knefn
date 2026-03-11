@@ -12,7 +12,8 @@ This section showcases the published research of our members in the areas of nuc
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Characterizing core and edge turbulence regimes with fluctuation imaging
+    diagnostics in Wendelstein 7-X" style="rich" %}
 
 {% include section.html %}
 
